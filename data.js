@@ -251,7 +251,7 @@ const data = [
     },
     {
         item: "2.15",
-        descricao: "Módulo Vacinas Imunobiológicos",
+        descricao: "Módulo Vacinas/Imunobiológicos",
         valorTotal: 6000.00,
         etapas: [
             { etapa: 1, valor: 300.00 },
@@ -381,7 +381,7 @@ const data = [
     },
     {
         item: "2.17",
-        descricao: "Módulo Emissão de Autos e ou Termos",
+        descricao: "Módulo Emissão de Autos e/ou Termos",
         valorTotal: 4000.00,
         etapas: [
             { etapa: 1, valor: 200.00 },
@@ -610,7 +610,7 @@ const data = [
         ]
     },
     {
-        item: "2.28.32",
+        item: "2.38.32",
         descricao: "Submódulo Demanda Reprimida",
         valorTotal: 2000.00,
         etapas: [
@@ -711,7 +711,7 @@ const data = [
     },
     {
         item: "2.36",
-        descricao: "Módulo Histórico de Atendimentos Médicos Odontológicos Enfermagem",
+        descricao: "Módulo Histórico de Atendimentos Médicos/Odontológicos/Enfermagem",
         valorTotal: 3000.00,
         etapas: [
             { etapa: 1, valor: 150.00 },
@@ -721,7 +721,7 @@ const data = [
     },
     {
         item: "2.37",
-        descricao: "Módulo Acesso Cidadão Via Totem Painel",
+        descricao: "Módulo Acesso Cidadão Via Totem/Painel",
         valorTotal: 3000.00,
         etapas: [
             { etapa: 1, valor: 150.00 },
@@ -774,14 +774,14 @@ const data = [
         descricao: "Módulo Business Intelligence (BI)",
         valorTotal: 3000.00,
         etapas: [
-            { etapa: 1, valor: 0.00 },
+            { etapa: 1, valor: 150.00 },
             { etapa: 2, valor: 1800.00 },
             { etapa: 3, valor: 1050.00 }
         ]
     },
     {
         item: "2.42",
-        descricao: "Módulo telemedicina teleconsulta teleinterconsulta",
+        descricao: "Módulo telemedicina/teleconsulta/teleinterconsulta",
         valorTotal: 3000.00,
         etapas: [
             { etapa: 1, valor: 150.00 },
