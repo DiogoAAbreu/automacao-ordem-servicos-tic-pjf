@@ -5,4 +5,9 @@
 <p>-pizzip</p>
 <p>-fs (nativa)</p>
 <p>-path (nativa)</p>
+<h2>COMO UTILIZAR?</h2>
+<p>1. Para utlizar o script, é necessário efetuar o Fork do arquivos para sua maquina.</p>
+<p>2. Com o sistema em sua maquina, abra a pasta principal com sua IDE.</p>
+<p>3. Abra o console e digite o comando "npm i", para instalar todas as bibliotecas necessárias.</p>
+<p></p>
 
