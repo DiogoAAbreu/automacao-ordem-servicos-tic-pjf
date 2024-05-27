@@ -2,6 +2,7 @@
   "description": "",
   "dependencies": {
     "docxtemplater": "^3.47.2",
+    "libreoffice-convert": "^1.5.1",
     "pizzip": "^3.1.7"
   }
 }
