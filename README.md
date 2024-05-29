@@ -14,5 +14,5 @@
 <p>4. Execute o arquivo automacao.js com o comando no console: node automacao.js.</p>
 <h4>O que vai acontecer?</h4>
 <p>O script vai ler o arquivo "base.docx" que se encontra dentro da pasta "ordemServicos" com a biblioteca fs e passar o conteudo lido para o PizZip, onde vai ser passado para a biblioteca Docx Templater. A função setData do DocxTemplater vai setar as variáveis que foram definadas dentro do arquivo .docx {variavel} com as informações que se encontram dentro do arquivo data.js.</p>
-<p>Ápos todos os arquivos .docx serem gerados com as informações contidades dentro da lista de objetos do arquivo .docx, a biblioteca livreoffice vai converter esses aquivos para PDF, utilizando o software da empresa para isso, todos arquivos serão salvos dentro da pasta osPDF.</p>
+<p>Ápos todos os arquivos .docx serem gerados com as informações contidades dentro da lista de objetos do arquivo .docx, a biblioteca libreoffice vai converter esses aquivos para PDF, utilizando o software da empresa para isso, todos arquivos serão salvos dentro da pasta osPDF.</p>
 
